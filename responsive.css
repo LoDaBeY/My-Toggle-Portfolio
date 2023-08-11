@@ -10,3 +10,9 @@
     width: 100%;
   }
 }
+
+.section2 img {
+  max-width: 300px;
+  border-radius: 50%;
+  animation: bounce 10s both;
+}
