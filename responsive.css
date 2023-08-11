@@ -1,0 +1,12 @@
+@media (max-width: 940px) {
+  body {
+    font-size: 14px;
+  }
+  .content {
+    flex-direction: column;
+    text-align: center;
+  }
+  .section1, .section2, .services {
+    width: 100%;
+  }
+}
